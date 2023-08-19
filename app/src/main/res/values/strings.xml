@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HaberListesi</string>
+    //new String object created below
+    <string name="api_key">use your api key</string>
+</resources>
